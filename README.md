@@ -9,3 +9,11 @@
 1. Local Database
 2. Material Design
 3. List View
+
+  ### Output
+
+<p float="left">
+  <img src="https://github.com/manavshah123/Note_App_Swift/blob/main/output_noteapp/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202022-02-14%20at%2018.47.25.png" width="320" />
+  <img src="https://github.com/manavshah123/Note_App_Swift/blob/main/output_noteapp/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202022-02-14%20at%2018.49.04.png" width="320" /> 
+  <img src="https://github.com/manavshah123/Note_App_Swift/blob/main/output_noteapp/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202022-02-14%20at%2018.49.13.png" width="320" /> 
+</p>
