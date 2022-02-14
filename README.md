@@ -11,7 +11,7 @@
 3. List View
 
   ### Output
-
+<br>
 <p float="left">
   <img src="https://github.com/manavshah123/Note_App_Swift/blob/main/output_noteapp/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202022-02-14%20at%2018.47.25.png" width="320" />
   <img src="https://github.com/manavshah123/Note_App_Swift/blob/main/output_noteapp/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202022-02-14%20at%2018.49.04.png" width="320" /> 
