@@ -2,9 +2,9 @@
 
 # Note_App_Swift
 
-# Androi_notes_app
+## Androi_notes_app
 
-## List of method and components are used in these project
+### List of method and components are used in these project
 
 1. Local Database
 2. Material Design
